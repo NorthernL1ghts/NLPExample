@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="src\NLPExample\Core\Application.h" />
+    <ClInclude Include="src\NLPExample\NLP\NLP.h" />
+    <ClInclude Include="src\NLPExample\EntryPoint\EntryPoint.h" />
+    <ClInclude Include="src\NLPExample\NLP\NLPTypes.h" />
+    <ClInclude Include="src\NLPExample\PCH.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\NLPExample\Core\Application.cpp" />
+    <ClCompile Include="src\NLPExample\NLP\NLP.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\NLPExample\EntryPoint\EntryPoint.cpp" />
+  </ItemGroup>
+</Project>

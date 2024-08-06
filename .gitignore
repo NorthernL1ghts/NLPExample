@@ -1,0 +1,41 @@
+# Ignore build directories
+/build/
+/build-debug/
+/build-release/
+
+# Ignore CMake files
+/CMakeFiles/
+/CMakeCache.txt
+/CMakeLists.txt.user
+
+# Ignore compiled binaries
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Ignore IDE-specific files
+.vscode/
+
+# Ignore Visual Studio files
+.vs/
+
+*.suo
+*.user
+*.ncb
+*.swp
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore MacOS Finder files
+.DS_Store
+
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# Ignore Linux directory files
+.directory

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NLPExample", "NLPExample\NLPExample.vcxproj", "{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Debug|x64.ActiveCfg = Debug|x64
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Debug|x64.Build.0 = Debug|x64
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Debug|x86.Build.0 = Debug|Win32
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Release|x64.ActiveCfg = Release|x64
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Release|x64.Build.0 = Release|x64
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Release|x86.ActiveCfg = Release|Win32
+		{DDD507A1-9BC4-4595-9D39-615CCA0FB8F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCD0C7A-D0C0-42A8-B539-44A73A090943}
+	EndGlobalSection
+EndGlobal
